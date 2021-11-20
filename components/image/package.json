@@ -1,0 +1,20 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "description": "An image component",
+  "license": "MIT",
+  "bin": {
+    "my-build": "bin/my-build.js"
+  },
+  "scripts": {
+    "build": "rimraf ./lib/ && tsc"
+  },
+  "dependencies": {
+    "colors": "^1.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.9.4",
+    "rimraf": "^2.6.2",
+    "typescript": "^3.0.3"
+  }
+}
