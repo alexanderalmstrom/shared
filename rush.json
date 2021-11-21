@@ -453,8 +453,9 @@
     // },
     // 
     {
-      "packageName": "image",
-      "projectFolder": "components/image"
+      "packageName": "@made-people/image",
+      "projectFolder": "components/image",
+      "shouldPublish": true
     }
   ]
 }
