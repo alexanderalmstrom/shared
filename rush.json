@@ -453,7 +453,7 @@
     // },
     // 
     {
-      "packageName": "@made-people/image",
+      "packageName": "@alexanderalmstrom/image",
       "projectFolder": "components/image",
       "shouldPublish": true
     }

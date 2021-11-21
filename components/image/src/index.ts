@@ -1,1 +1,1 @@
-console.log('Hello from image component :) a new new change');
+console.log('Hello from image component :) a new new change test');
