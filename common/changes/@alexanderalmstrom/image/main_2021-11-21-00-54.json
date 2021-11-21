@@ -2,8 +2,8 @@
   "changes": [
     {
       "packageName": "@alexanderalmstrom/image",
-      "comment": "New change",
-      "type": "patch"
+      "comment": "",
+      "type": "none"
     }
   ],
   "packageName": "@alexanderalmstrom/image"
