@@ -1,0 +1,17 @@
+{
+  "name": "@alexanderalmstrom/image",
+  "entries": [
+    {
+      "version": "1.0.4",
+      "tag": "@alexanderalmstrom/image_v1.0.4",
+      "date": "Sun, 21 Nov 2021 01:02:44 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "Change image"
+          }
+        ]
+      }
+    }
+  ]
+}

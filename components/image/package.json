@@ -1,8 +1,9 @@
 {
-  "name": "@alexanderalmstrom/image",
-  "version": "1.0.3",
+  "name": "@alexander-almstrom/image",
+  "version": "1.0.4",
   "description": "An image component",
-  "license": "MIT",
+  "private": true,
+  "license": "UNLICENSED",
   "scripts": {
     "build": "rimraf ./build/ && tsc"
   },
