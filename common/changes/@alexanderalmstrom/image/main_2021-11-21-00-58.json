@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@alexanderalmstrom/image",
+      "comment": "Change image",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@alexanderalmstrom/image"
+}
